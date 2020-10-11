@@ -625,3 +625,8 @@ Python and PHP.
 One of these two is one of the most popular choices of backend programming. The other one is PHP.
 
 ***
+
+Q: Why did the database administrator leave his wife?
+A: She had one-to-many relationships.
+
+***
